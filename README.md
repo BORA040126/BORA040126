@@ -1,10 +1,10 @@
 ## Hello, World!
 
--I'm bora.
+- I'm bora.
 
--I want to be an AI researcher/developer
+- I want to be an AI researcher/developer
 
--I'm an Industrial Security student at Chung-Ang University
+- I'm an Industrial Security student at Chung-Ang University
 
 ## Studying
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
