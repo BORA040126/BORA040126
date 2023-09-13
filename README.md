@@ -25,7 +25,7 @@
 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BORA040126&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BORA040126&hide=scss,html,css)
 
 
 
