@@ -33,4 +33,3 @@
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codebora&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle=codebora&theme=warm"/>
