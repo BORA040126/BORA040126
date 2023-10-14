@@ -2,8 +2,6 @@
 
 -  I'm bora.
 
--  I want to be an AI researcher/developer
-
 -  I'm an Industrial Security student at Chung-Ang University
 
 ## Studying
