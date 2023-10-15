@@ -1,6 +1,6 @@
 ## Hello, World!
 
--  I'm bora.
+-  I'm BORA.
 
 -  I'm an Industrial Security student at Chung-Ang University
 
