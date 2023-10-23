@@ -33,3 +33,6 @@
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codebora&theme=warm)
+
+
+[![An image of @bora040126's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bora040126)](https://holopin.io/@bora040126)
