@@ -2,7 +2,7 @@
 
 -  I'm BORA.
 
--  I'm an Industrial Security student at Chung-Ang University
+-  I'm a second-year undergraduate Industrial Security student at Chung-Ang University
 
 ## Studying
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -10,10 +10,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 
 
@@ -28,8 +26,7 @@
 
 
 ![Anurage's GitHub stats](https://github-readme-stats.vercel.app/api?username=BORA040126&show_icons=true&theme=cobalt)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=codebora)](https://solved.ac/codebora)​
+​
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codebora&theme=warm)
