@@ -1,6 +1,6 @@
 ## Hello, World!
 
--  I'm BORA.
+-  I'm BORA KIM.
 
 -  I'm a second-year undergraduate Industrial Security student at Chung-Ang University
 
@@ -26,10 +26,4 @@
 
 
 ![Anurage's GitHub stats](https://github-readme-stats.vercel.app/api?username=BORA040126&show_icons=true&theme=cobalt)
-​
 
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=codebora&theme=warm)
-
-
-[![An image of @bora040126's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bora040126)](https://holopin.io/@bora040126)
