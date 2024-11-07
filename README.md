@@ -7,12 +7,12 @@
   
 
 ## 📘 Studying
-### 🍃 **Languages**
+###  **Languages**
 - **Python**
   - 🧠 **ML/DL**: Pandas, NumPy, Scikit-Learn, PyTorch
   - ⚙️ **Backend**: Django, Flask, FastAPI
   - 📐 **Algorithm**
-- **Java**: Spring
+- **Java**: Spring 🍃
 - **C**
 - **JavaScript**
 - **PHP**<br><br>
