@@ -2,7 +2,7 @@
 ## 🌎 Hello, World!
 
 - 👋 **I'm BORA KIM**
-- 🎓 **Second-year undergraduate Industrial Security student at Chung-Ang University**<br><br>
+- 🎓 **Junior undergraduate Industrial Security student at Chung-Ang University**<br><br>
 
   
 
