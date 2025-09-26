@@ -28,7 +28,8 @@
 
 
 ## 📊 **Stats**
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BORA040126&hide=scss,html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BORA040126&hide=scss,html,css)
+
 
 ![BORA's GitHub stats](https://github-readme-stats.vercel.app/api?username=BORA040126&show_icons=true&theme=cobalt)
 
