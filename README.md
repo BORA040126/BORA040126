@@ -22,7 +22,7 @@
 ## 😝 **Interest Areas**
 - 📊 **Data Science (DS) / Machine Learning (ML) / Deep Learning (DL)**
 - 🔧 **Backend Development**
-- 🛡️ **White-Hacking**<br><br>
+- 🧫 **Bioinformatics**<br><br>
 
   
 
